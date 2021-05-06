@@ -36,7 +36,6 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation 'io.projectreactor:reactor-test'
     compile "org.flywaydb:flyway-core:7.7.3"
-    compile('org.flywaydb:flyway-core')
     compile('mysql:mysql-connector-java')
 }
 
